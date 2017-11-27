@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OptionPricer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ace89/Projects/OptionPricer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ace89/Projects/OptionPricer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ace89/Projects/OptionPricer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OptionPricer">
+				<Option output="/home/ace89/Projects/OptionPricer/cmake-build-debug/OptionPricer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ace89/Projects/OptionPricer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 OptionPricer"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OptionPricer/fast">
+				<Option output="/home/ace89/Projects/OptionPricer/cmake-build-debug/OptionPricer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ace89/Projects/OptionPricer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 OptionPricer/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/ace89/Projects/OptionPricer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ace89/Projects/OptionPricer/DataStruct.h">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/DerivativePricers/BlackScholes.cpp">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/DerivativePricers/BlackScholes.h">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/DerivativePricers/IOptionPricers.h">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/Derivatives/EuropeanCall.cpp">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/Derivatives/EuropeanCall.h">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/Derivatives/IOptionType.cpp">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/Derivatives/IOptionType.h">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/Distribution/GaussianDistribution.cpp">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/Distribution/GaussianDistribution.h">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/Distribution/IDistribution.h">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/OptionFactory.cpp">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/OptionFactory.h">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/TestMethods.cpp">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/TestMethods.h">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/main.cpp">
+			<Option target="OptionPricer"/>
+		</Unit>
+		<Unit filename="/home/ace89/Projects/OptionPricer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
